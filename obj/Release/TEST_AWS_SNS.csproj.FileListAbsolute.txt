@@ -1,0 +1,14 @@
+C:\Users\calarcon\AppData\Local\Temporary Projects\TEST_AWS_SNS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\calarcon\AppData\Local\Temporary Projects\TEST_AWS_SNS\obj\Release\TEST_AWS_SNS.Form1.resources
+C:\Users\calarcon\AppData\Local\Temporary Projects\TEST_AWS_SNS\obj\Release\TEST_AWS_SNS.Properties.Resources.resources
+C:\Users\calarcon\AppData\Local\Temporary Projects\TEST_AWS_SNS\obj\Release\TEST_AWS_SNS.csproj.GenerateResource.Cache
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\bin\Release\TEST_AWS_SNS.exe.config
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\obj\Release\TEST_AWS_SNS.Form1.resources
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\obj\Release\TEST_AWS_SNS.Properties.Resources.resources
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\obj\Release\TEST_AWS_SNS.csproj.GenerateResource.Cache
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\bin\Release\TEST_AWS_SNS.exe
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\bin\Release\TEST_AWS_SNS.pdb
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\bin\Release\AWSSDK.dll
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\obj\Release\TEST_AWS_SNS.exe
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\obj\Release\TEST_AWS_SNS.pdb

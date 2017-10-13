@@ -1,0 +1,10 @@
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\bin\Debug\TEST_AWS_SNS.exe.config
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\bin\Debug\TEST_AWS_SNS.exe
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\bin\Debug\TEST_AWS_SNS.pdb
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\bin\Debug\AWSSDK.dll
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\obj\Debug\TEST_AWS_SNS.Form1.resources
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\obj\Debug\TEST_AWS_SNS.Properties.Resources.resources
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\obj\Debug\TEST_AWS_SNS.csproj.GenerateResource.Cache
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\obj\Debug\TEST_AWS_SNS.exe
+C:\Users\calarcon\Documents\Visual Studio 2008\Projects\TEST_AWS_SNS\TEST_AWS_SNS\obj\Debug\TEST_AWS_SNS.pdb
